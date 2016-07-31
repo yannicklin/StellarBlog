@@ -1,8 +1,15 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "yannicklin/StellarBlog",
+    "description": "Stellar Blog Sample work made with Laravel Framework 5.1 .",
+    "keywords": ["framework", "laravel", "yannicklin", "stellar"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Yannick Lin",
+            "email": "yannicklin.au@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "type": "project",
     "require": {
         "php": ">=5.5.9",
